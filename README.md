@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yuvraj
 - 🔄 Routine: Eat - Sleep - Code - Repeat.
 - 🌱 I’m currently learning new tehnologies...
-- 💞️ I’m looking to collaborate on open source project.
+- 👥 I’m looking to collaborate on open source project.
 - 📫 How to reach me yuvrajsingh3112s@gmail.com.
 - 👨🏽‍💻 Currently, learning and growing my skillset in deep learning, competitive coding, data structures and algorithms.
 <!---
